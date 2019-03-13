@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "decompress": "^4.2.0",
-    "decompress-tarxz": "^2.1.1",
+    "decompress-tarxz": "github:GamingPrower/decompress-tarxz",
     "decompress-unzip": "^4.0.1"
   },
   "devDependencies": {
